@@ -1,0 +1,7 @@
+version: "3.8"
+services:
+  xyz:
+    image: somkiat/python:1.0
+    build: .
+    ports:
+      - 5555:5000
