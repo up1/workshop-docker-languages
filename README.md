@@ -2,3 +2,4 @@
 * Python + flask
 * .Net 6
 * ReactJS
+* Go + Echo
