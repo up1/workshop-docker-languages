@@ -8,3 +8,7 @@ services:
     build: ./demo-react
     ports:
       - 8888:80
+  go2:
+    build: ./demo-go
+    ports:
+      - 9999:1323
